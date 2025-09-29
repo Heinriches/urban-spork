@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main{
+public class First{
 	public static void main(String[] args){
 		// Declaring a String variable to hold user input
 		String inputString;
