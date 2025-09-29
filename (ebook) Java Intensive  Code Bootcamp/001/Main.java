@@ -1,4 +1,4 @@
-package fun.sanjibsinha;
+//package fun.sanjibsinha;
 
 import java.util.Scanner;
 
