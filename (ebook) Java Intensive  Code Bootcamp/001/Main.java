@@ -14,7 +14,7 @@ public class Main{
 		System.out.println("Enter a string: ");
 		
 		// Reading the entire line of input from the console
-		inputString = consoleIn.nextLine;
+		inputString = consoleIn.nextLine();
 		
 		// Displaying the inut back to the user
 		System.out.println("You entered string: " +inputString);
