@@ -11,7 +11,7 @@ public class Main{
 		Scanner consoleIn = new Scanner(System.in);
 		
 		// Prompting the user for input
-		Systemout.println("Enter a string: ");
+		System.out.println("Enter a string: ");
 		
 		// Reading the entire line of input from the console
 		inputString = consoleIn.nextLine;
